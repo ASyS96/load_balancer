@@ -1,0 +1,7 @@
+#This file contains all the IP address and port number of all servers.
+#Each line defines a server. Empty line and line with '#' as first character is ignored.
+#Fields are seperated by space(s).
+
+#IP        Port
+#Example of an entry
+#127.0.0.1 5000
